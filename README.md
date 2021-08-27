@@ -1,19 +1,9 @@
-![matrix-4646234_1280](https://user-images.githubusercontent.com/64651250/130290271-269598f8-b99f-4560-94e4-84c0aea4cb82.jpg)
-
-## A little bit about me
-
-
-
+![CC-Blog_Advantage-blog-Top-programming-languages_main-banner_1](https://user-images.githubusercontent.com/64651250/131195748-2829fb5e-3464-466f-94f9-1788dcdb9d5e.jpeg)
 
 ### Hi there 👋
 
-<!--
-**MelindaZhang2020/MelindaZhang2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software Development Diploma.
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
