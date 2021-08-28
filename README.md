@@ -35,6 +35,10 @@ I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MelindaZhang2020&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelindaZhang2020&layout=compact&show_icons=true&theme=tokyonight)
+
 ## Find Me On
 
 <p align="center">
@@ -42,9 +46,4 @@ I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software 
  <a href="https://twitter.com/melindazhang4" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:melindahongyezhang@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MelindaZhang2020&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelindaZhang2020&layout=compact&show_icons=true&theme=tokyonight)
-
 
