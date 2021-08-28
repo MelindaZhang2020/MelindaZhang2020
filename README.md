@@ -29,9 +29,11 @@ I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software 
 
 ## Objectives
 
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 ## Find Me On
 
