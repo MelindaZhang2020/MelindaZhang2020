@@ -1,13 +1,15 @@
 ![CC-Blog_Advantage-blog-Top-programming-languages_main-banner_1](https://user-images.githubusercontent.com/64651250/131195748-2829fb5e-3464-466f-94f9-1788dcdb9d5e.jpeg)
 
+## A little bit about me
+
 ### Hi there 👋
 
-I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software Development Diploma.
+I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software Development Diploma and looking for a role as a software developer. 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=MelindaZhang2020.MelindaZhang2020)
 ![Github](https://img.shields.io/github/followers/MelindaZhang2020?label=Follow&style=social)
 
-### My Stack
+## My Stack
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
@@ -25,12 +27,16 @@ I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software 
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-### Find Me On
+## Find Me On
 
 <p align="center">
  <a href="https://linkedin.com/in/melinda-zhang-2020" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://twitter.com/melindazhang4" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:melindahongyezhang@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MelindaZhang2020&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelindaZhang2020&layout=compact&show_icons=true&theme=tokyonight)
 
 
