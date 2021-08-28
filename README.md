@@ -9,7 +9,7 @@ I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software 
 ![](https://visitor-badge.laobi.icu/badge?page_id=MelindaZhang2020.MelindaZhang2020)
 ![Github](https://img.shields.io/github/followers/MelindaZhang2020?label=Follow&style=social)
 
-## My Stack
+## In My Stack
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
@@ -26,6 +26,12 @@ I'm Melinda. I'm a junior developer, currently enrolled in a FullStack Software 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## Objectives
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
 
 ## Find Me On
 
