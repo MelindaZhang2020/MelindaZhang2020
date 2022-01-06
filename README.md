@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm Melinda. I'm a junior developer, recently achieved code institute Full Stack Software Development Diploma and currently pursuing a role as a software developer. 
+I'm Melinda. I have recently achieved code institute Full Stack Software Development Diploma and currently pursuing a role as a junior software developer. 
 
 ## In My Stack
 
