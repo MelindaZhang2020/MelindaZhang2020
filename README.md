@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm Melinda. I have recently achieved code institute Full Stack Software Development Diploma and currently pursuing a role as a junior software developer. 
+I'm Melinda. I have recently achieved code institute Full Stack Software Development Diploma and currently working as a Graduate Software Engineer at Phorest Salon Software.
 
 ## In My Stack
 
